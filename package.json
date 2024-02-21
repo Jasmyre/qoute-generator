@@ -1,0 +1,27 @@
+{
+  "name": "qoute-generator",
+  "version": "1.0.0",
+  "description": "qoute generator with typescript and quotable api",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "qoute-generator"
+  },
+  "keywords": [
+    "qoute",
+    "typescript",
+    "quotable",
+    "api"
+  ],
+  "author": "Jasmyre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "typescript": "^5.3.3"
+  }
+}
